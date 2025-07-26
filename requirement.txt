@@ -1,6 +1,0 @@
-pyrogram
-tgcrypto
-yt-dlp
-pytgcalls
-pymongo
-ffmpeg-python
